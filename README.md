@@ -2,22 +2,12 @@
 
 `Freelance project`
 
-### Description:
-**Red Cap Must Cry** is a *freelance project* where I have implemented the front-end development for a 3-page website based on a *Figma* design.  
-Link: https://astik-dev.github.io/red-cap-must-cry/  
-Link: https://redcapmustcry.com/
+Red Cap Must Cry is a front-end implementation of a responsive three-page website, developed with HTML, SCSS (BEM methodology), and JavaScript, based on a Figma design.
 
-### Functional:
-1. Smooth scrolling.
-1. Hide menu and show hamburger menu for mobile screens.
-1. SwiperJS sliders.
-1. Hovering the mouse over interactive elements adds animated effects.
-1. Popup windows
-1. Responsiveness for different screen sizes.
-1. Input field validation
-
-### Technologies:
-- **HTML5**
-- **CSS3 (SCSS)**
-- **JavaScript**
-- **BEM**
+## Features
+- Smooth scrolling on anchor link click
+- Hamburger menu for mobile screens
+- SwiperJS sliders
+- Hover effects on buttons, links, and other elements
+- Popup windows with show/hide animations
+- Input field validation
